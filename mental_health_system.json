@@ -1,0 +1,19 @@
+{
+    "users": [],
+    "patients": [
+        {
+            "name": "Omar",
+            "id": "221000152"
+        },
+        {
+            "name": "omar asal",
+            "id": "231002180"
+        }
+    ],
+    "doctors": [
+        {
+            "name": "hamada",
+            "id": "22"
+        }
+    ]
+}
